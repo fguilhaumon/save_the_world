@@ -8,4 +8,6 @@
 
 #usethis::use_r("functions")
 
+renv::init()
+
 # workflow ----
